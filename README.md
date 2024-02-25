@@ -1,2 +1,2 @@
 # portfolio-web
-Izar Mula's repository
+Izar Mula's portfolio
